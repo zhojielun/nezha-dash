@@ -27,7 +27,7 @@ function Header() {
             className="mx-2 hidden h-4 w-[1px] md:block"
           />
           <p className="hidden text-sm font-medium opacity-40 md:block">
-            Simple and beautiful dashboard
+            Welcome to Luck's NezhaDash.
           </p>
         </section>
         <ModeToggle />
